@@ -1,3 +1,6 @@
+# readline bug
+read line eats my spaces before code blocks
+
 first show people what can be achieved, so that they can get interested.
 LGCB book(since progit.org is not on), show people(download pdf), nice looking. 
 
