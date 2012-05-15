@@ -8,3 +8,9 @@ have `_layout` instead of `_layouts`
 ## pandoc 
 
 have a blank line before "#"s, if you want it as a title
+
+# why not jekyll's auto md->html?
+
+jekyll plugin is not allowed if you want to host your site on github server
+jekyll's own gfm, has a quite limited feature set, that's why they are considering use multimarkdown
+https://github.com/mojombo/jekyll/issues/289
